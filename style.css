@@ -1,3 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+#navSection h1{
+    font-size : 40px;
+    font-weight : bold;
+}
 button{
     background-color: palegreen;
     color: white;
