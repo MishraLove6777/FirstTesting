@@ -4,11 +4,36 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
-#navSection h1{
-    font-size : 40px;
+#navSection{
+}
+.halfWidth h1{
+    font-size : 45px;
     font-weight : bold;
 }
+.halfWidth span{
+    color : #ffa200;
+}
+.halfWidth{
+    width : 40%;
+    float : left;
+    margin-left : 5%;
+    padding-left: 2%;
+    margin-top: 50px;
+}
+.halfWidth p{
+    padding: 10px 0;
+    ;
+}
+.info{
+    margin-top: 50px;
+}
+.halfWidth img{
+    width : 120%;
+}
 button{
-    background-color: palegreen;
-    color: white;
+    background-color: #ffa200;
+    border: none;
+    padding: 10px 25px;
+    margin-top: 10px;
+    font-size: 15px;
 }
